@@ -20,7 +20,7 @@ Passionate about video games, animation and technology.
 
 ### 🔭 Currently working on:
 
-![OpenPype](https://github-readme-stats.vercel.app/api/pin/?username=pypeclub&repo=OpenPype&theme=calm)
+[![OpenPype](https://github-readme-stats.vercel.app/api/pin/?username=pypeclub&repo=OpenPype&theme=calm)](https://github.com/pypeclub/OpenPype)
 
 ### 📊 My stats
 
